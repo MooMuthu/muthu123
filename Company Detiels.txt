@@ -1,0 +1,119 @@
+Company Name
+Genex Technologies PVT.LTD
+
+
+
+Project Name1: TMS (Transaction Management System)
+Domain: Investment Banking
+Client: Bridgepoint Capital, UK
+
+
+
+Project Name2 : Smart Billing and CRM System
+Domain: Telecom
+Client: BT Group plc, UK
+
+
+
+
+excel for tst case perperation
+stlc-softwere testing life cycle
+stlc phases
+============
+            1.   requirement gathering,
+			     participant
+			     ===========
+			1.client
+			2.business analyst
+			3.product owner
+			4.scrum master
+			
+            2.   test planing,
+			
+			1.what to test
+			2.how to test
+			3.when to test
+			
+			3.   test designing,
+			creaton of scenerio===> highlevel scenero like (logn,search button,add to crat.., etc..)
+			test case( through excel) excepted,actual is called validate
+			why you write the test case ?===> to avoid the mistake
+			verfcaton (ststic testng) and  valdation(dynamic testing)
+			    verfcaton (ststic testng)
+			    walkthrough
+			    code review
+			    document reviwe
+			
+			valdation(dynamic testing)
+			  excepted and actual result
+            			
+			                                                         RTM  (reuirement  traceblity  matrix)
+			4.  enviromental setup,test executon,
+			manual and also automation(low test case is manual testng,high test cse automation testing)
+			
+			5.   defect reporting,
+			
+			ERROR==human eror
+			BUG=== find out by developer
+			DEFECT== find out by tester
+			
+			rsising the defect in jira-to developer
+			defect life cycle
+			==================
+			
+			new--in jira creatig the defect
+			open --developer started work on defect
+			fixed-- code  changed to correct the defect 
+			retest--tester will retesting defect
+			verified--tester will  recheck
+			(still it was in defect)  reopen---again developer will started work on defect
+			deffered---not problem in present sprint later sprint we will fixed
+			dupilacte---same defect repeated by another tester(Q.A)
+			need for information--
+			rejected--
+			
+		    6.   closure
+			test planing=== scope,objective,approch,estimation,deadlne,ggfhhffgfgghgf
+			test reporting==how many pass,fail
+			defect report
+			
+			
+
+jeera -user story-task,sprint,isuues,backlog, 
+confulence url url-brd,srs,
+share path use vedio, files ,etc,to downlad material related testing
+tems softwere communcatng wth teams
+out look for checking mail
+postman for manual testing
+
+\]i j
+automtion
+enviromental setup
+jdk
+notepad++
+eclipse,intelji,visual studio,springboot,notebeans
+mysql
+
+fremework-maven dependence -graddle
+
+emanual testin
+
+
+Ajile mathodologies it was fastest processiing
+===================
+SDLC(softwere development life cycle)
+
+partcipents;-
+==============
+scurem teams
+product owner
+scurem master
+tester
+developer
+
+AJILE CEREMONIES
+==================
+1.spririt planning or grooming
+2.sprnt daily standard up or scurem meeting
+3.sprint review meetingting
+4.sprint retrospective meeting
