@@ -1,0 +1,16 @@
+git init
+
+git config --global user.name "MooMuthu"
+
+git config --global user.email "moomoo99444@gmail.com"
+
+git add .
+
+git status
+
+git commit -m "new Framework"
+
+git remote add origin https://github.com/MooMuthu/moomuthu.git
+
+git push -u orign master
+
